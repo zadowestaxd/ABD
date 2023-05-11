@@ -57,3 +57,4 @@ java.lang.NullPointerException
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
 	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+2023-04-13 11:31:49 INFO - Oracle SQL Developer Data Modeler 22.2.0.165.1149
